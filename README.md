@@ -1,0 +1,1 @@
+Kaggle data link: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation?resource=download
